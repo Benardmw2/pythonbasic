@@ -1,0 +1,7 @@
+print("Welcome to Python Programming")
+print('Hello World')
+# print()
+print(5+12)
+print("5+17")
+print("this is my first python file")
+print(6+9)
